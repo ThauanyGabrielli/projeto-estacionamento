@@ -57,7 +57,7 @@ Em **desenvolvimento**
 ## 📍Autor (es)
 
 - Equipe DEV `Senai/Sesi`
-- Nome do programador  (Opcional)
+- Nome do programador  (Thauany)
 
 ---
 
